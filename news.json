@@ -1,10 +1,12 @@
 [
   {
     "title": "ОБНОВЛЕНИЕ 1.2 УЖЕ ТУТ!",
-    "image_url": "https://raw.githubusercontent.com/gefhastel/buckshot-news/main/81256.png"
+    "image_url": "https://raw.githubusercontent.com/gefhastel/buckshot-news/main/81256.png",
+    "target_url": "https://rustore.ru"
   },
   {
     "title": "РЕМАСТЕРЕД СКОРО...",
-    "image_url": ""
+    "image_url": "",
+    "target_url": ""
   }
 ]
